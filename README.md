@@ -1,8 +1,13 @@
 **Name :** Simran Tayal
+
 **Company :** CODTECH IT SOLUTIONS
+
 **ID :** CT08DS1645
+
 **Domain :** Frontend Web Development
+
 **Duration :** 5th June, 2024 - 5th July, 2024
+
 **Mentor :** 
 
 **OVERVIEW OF THE PROJECT**
@@ -13,6 +18,7 @@ Recipe Finder Application
 The objective of this project is to create  a dynamic food recipe website using HTML, CSS, and JavaScript. The website will utilize an API to fetch recipes, ingredients, and images of various dishes.
 
 **KEY FEATURES :**
+
 **-Recipe Details Page:**
 Shows detailed information about the selected recipe:
 * Title of the recipe.
