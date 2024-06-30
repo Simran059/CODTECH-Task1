@@ -1,9 +1,9 @@
-Name : Simran Tayal
-Company : CODTECH IT SOLUTIONS
-ID : CT08DS1645
-Domain : Frontend Web Development
-Duration : 5th June, 2024 - 5th July, 2024
-Mentor : 
+**Name :** Simran Tayal
+**Company :** CODTECH IT SOLUTIONS
+**ID :** CT08DS1645
+**Domain :** Frontend Web Development
+**Duration :** 5th June, 2024 - 5th July, 2024
+**Mentor :** 
 
 **OVERVIEW OF THE PROJECT**
 **PROJECT :**
@@ -15,10 +15,10 @@ The objective of this project is to create  a dynamic food recipe website using 
 **KEY FEATURES :**
 **-Recipe Details Page:**
 Shows detailed information about the selected recipe:
-*Title of the recipe.
-*List of ingredients.
-*Preparation instructions.
-*Image of the dish.
+* Title of the recipe.
+* List of ingredients.
+* Preparation instructions.
+* Image of the dish.
 
 **-Search Functionality:**
 * Implemented a search bar to allow users to search for recipes by keywords.
