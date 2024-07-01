@@ -41,14 +41,22 @@ Shows detailed information about the selected recipe:
 **-User Experience:**
 * Provides a user-friendly interface.
 
-**Technologies Used :**
+**TECHNOLOGIES USED :**
 * HTML: Structure the content of the website.
 * CSS: Style the layout, fonts, colors, and overall design.
 * JavaScript: Handle dynamic content, API interactions, and user interactions.
-* API: Integrate a food API to fetch recipe data dynamically.
+* * API: Integrate a food API to fetch recipe data dynamically.
 * Responsive Design Techniques: Use media queries and flexible layouts to ensure compatibility across devices.
 
-**Project Goals :**
+**PROJECT GOALS :**
 * Creating a visually appealing and functional food recipe website.
 * Providing users with access to a variety of recipes with detailed information.
 * Enhancing user engagement through interactive features and real-time data fetching.
+
+
+  ![Screenshot 2024-07-01 195502](https://github.com/Simran059/CODTECH-Task1/assets/98331698/f2061ac2-9ec5-456c-b645-78a1362bf445)
+![Screenshot 2024-07-01 195531](https://github.com/Simran059/CODTECH-Task1/assets/98331698/83db8f9b-764a-4882-89f2-046c7f199835)
+![Screenshot 2024-07-01 195515](https://github.com/Simran059/CODTECH-Task1/assets/98331698/2ad960dd-ff2f-4ea7-8bad-eb6ae16c1804)
+
+
+
